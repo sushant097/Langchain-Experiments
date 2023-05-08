@@ -1,6 +1,10 @@
 # Langchain-Experiments
 Different Langchain experiments and projects.
 
+Probable projects planning to do:
+1. Query Pdf with nice GUI.
+2. Chat with your data with nice GUI.
+
 # Contents:
 1. [Langchain Fundamentals - Part 1](LangChain_Cookbook_Part_1-Fundamentals.ipynb)
 
